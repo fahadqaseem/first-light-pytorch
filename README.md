@@ -22,6 +22,6 @@ I really like the area that ChatGPT explained "Occupancy Networks represent 3D g
 But yeah, just to keep it simple, I'm going with the clothing option problem first. Let's solve that, and then see if we have more time, we can do the finding a hidden shape thing. 
 
 
-I ran the whole pipeline, used the dataset, and did 6 epochs and lowered the loss. I have an accuracy of 82.82.37%, and on the 69 samples I printed, all of them were correct, which is good. Got to learn how to do a forward pass. Here you can see the PNG below. 
+I ran the whole pipeline, used the dataset, and did 6 epochs and lowered the loss. I have an accuracy of 82.37%, and on the 69 samples I printed, all of them were correct, which is good. Got to learn how to do a forward pass. Here you can see the PNG below. 
 
 ![Clothing classification predictions](prediction_gallery.png)
